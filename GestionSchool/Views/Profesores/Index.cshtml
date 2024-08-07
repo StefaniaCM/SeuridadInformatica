@@ -1,0 +1,64 @@
+﻿@model IEnumerable<GestionSchool.Models.Profesore>
+@{
+    ViewData["Title"] = "Profesores";
+}
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card shadow-sm border-0">
+                <div class="card-header bg-primary text-white d-flex justify-content-between align-items-center">
+                    <h4 class="mb-0">Lista de Profesores</h4>
+                    <a asp-action="Create" class="btn btn-light">Crear Nuevo Profesor</a>
+                </div>
+                <div class="card-body bg-light">
+                    <div class="table-responsive">
+                        <table class="table table-hover">
+                            <thead class="bg-primary text-white">
+                                <tr>
+                                    <th>Imagen</th>
+                                    <th>@Html.DisplayNameFor(model => model.Nombres)</th>
+                                    <th>@Html.DisplayNameFor(model => model.Apellidos)</th>
+                                    <th>@Html.DisplayNameFor(model => model.CorreoElectronico)</th>
+                                    <th>@Html.DisplayNameFor(model => model.Profesion)</th>
+                                    <th>Acciones</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td>
+                                            <img src="/images/@item.ImagenUrl" class="rounded-circle" style="width: 50px; height: 50px; object-fit: cover;" alt="Foto de @item.Nombres" />
+                                        </td>
+                                        <td>@Html.DisplayFor(modelItem => item.Nombres)</td>
+                                        <td>@Html.DisplayFor(modelItem => item.Apellidos)</td>
+                                        <td>@Html.DisplayFor(modelItem => item.CorreoElectronico)</td>
+                                        <td>@Html.DisplayFor(modelItem => item.Profesion)</td>
+                                        <td>
+                                            <a asp-action="Edit" asp-route-id="@item.DocumentoIdentidad" class="btn btn-sm btn-primary">Editar</a>
+                                            <a asp-action="Details" asp-route-id="@item.DocumentoIdentidad" class="btn btn-sm btn-info">Detalles</a>
+                                            <a asp-action="Delete" asp-route-id="@item.DocumentoIdentidad" class="btn btn-sm btn-danger">Eliminar</a>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .table th, .table td {
+        vertical-align: middle;
+    }
+
+    .bg-light-blue {
+        background-color: #e0f7fa; /* Azul muy claro */
+    }
+    
+</style>

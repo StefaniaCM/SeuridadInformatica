@@ -1,0 +1,519 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|c:\\users\\stefania\\documents\\sena-trimestre 6\\asp.net\\gestionschool\\gestionschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|solutionrelative:gestionschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|c:\\users\\stefania\\documents\\sena-trimestre 6\\asp.net\\gestionschool\\gestionschool\\controllers\\loginscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|solutionrelative:gestionschool\\controllers\\loginscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|c:\\users\\stefania\\documents\\sena-trimestre 6\\asp.net\\gestionschool\\gestionschool\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|solutionrelative:gestionschool\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|c:\\users\\stefania\\documents\\sena-trimestre 6\\asp.net\\gestionschool\\gestionschool\\views\\logins\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|solutionrelative:gestionschool\\views\\logins\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|c:\\users\\stefania\\documents\\sena-trimestre 6\\asp.net\\gestionschool\\gestionschool\\views\\logins\\iniciosesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|solutionrelative:gestionschool\\views\\logins\\iniciosesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|c:\\users\\stefania\\documents\\sena-trimestre 6\\asp.net\\gestionschool\\gestionschool\\views\\autentication\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|solutionrelative:gestionschool\\views\\autentication\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|c:\\users\\stefania\\documents\\sena-trimestre 6\\asp.net\\gestionschool\\gestionschool\\views\\autentication\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|solutionrelative:gestionschool\\views\\autentication\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|c:\\users\\stefania\\documents\\sena-trimestre 6\\asp.net\\gestionschool\\gestionschool\\controllers\\autenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|solutionrelative:gestionschool\\controllers\\autenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|c:\\users\\stefania\\documents\\sena-trimestre 6\\asp.net\\gestionschool\\gestionschool\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|solutionrelative:gestionschool\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|c:\\users\\stefania\\documents\\sena-trimestre 6\\asp.net\\gestionschool\\gestionschool\\models\\schoolcrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|solutionrelative:gestionschool\\models\\schoolcrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|c:\\users\\stefania\\documents\\sena-trimestre 6\\asp.net\\gestionschool\\gestionschool\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|solutionrelative:gestionschool\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|c:\\users\\stefania\\documents\\sena-trimestre 6\\asp.net\\gestionschool\\gestionschool\\models\\profesore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|solutionrelative:gestionschool\\models\\profesore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|c:\\users\\stefania\\documents\\sena-trimestre 6\\asp.net\\gestionschool\\gestionschool\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|solutionrelative:gestionschool\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|c:\\users\\stefania\\documents\\sena-trimestre 6\\asp.net\\gestionschool\\gestionschool\\controllers\\profesorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|solutionrelative:gestionschool\\controllers\\profesorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|c:\\users\\stefania\\documents\\sena-trimestre 6\\asp.net\\gestionschool\\gestionschool\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|solutionrelative:gestionschool\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|c:\\users\\stefania\\documents\\sena-trimestre 6\\asp.net\\gestionschool\\gestionschool\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|solutionrelative:gestionschool\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|c:\\users\\stefania\\documents\\sena-trimestre 6\\asp.net\\gestionschool\\gestionschool\\views\\profesores\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|solutionrelative:gestionschool\\views\\profesores\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|c:\\users\\stefania\\documents\\sena-trimestre 6\\asp.net\\gestionschool\\gestionschool\\views\\profesores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|solutionrelative:gestionschool\\views\\profesores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|c:\\users\\stefania\\documents\\sena-trimestre 6\\asp.net\\gestionschool\\gestionschool\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|solutionrelative:gestionschool\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|c:\\users\\stefania\\documents\\sena-trimestre 6\\asp.net\\gestionschool\\gestionschool\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|solutionrelative:gestionschool\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|c:\\users\\stefania\\documents\\sena-trimestre 6\\asp.net\\gestionschool\\gestionschool\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|solutionrelative:gestionschool\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|c:\\users\\stefania\\documents\\sena-trimestre 6\\asp.net\\gestionschool\\gestionschool\\views\\profesores\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|solutionrelative:gestionschool\\views\\profesores\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|c:\\users\\stefania\\documents\\sena-trimestre 6\\asp.net\\gestionschool\\gestionschool\\views\\profesores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|solutionrelative:gestionschool\\views\\profesores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|c:\\users\\stefania\\documents\\sena-trimestre 6\\asp.net\\gestionschool\\gestionschool\\views\\profesores\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|solutionrelative:gestionschool\\views\\profesores\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|c:\\users\\stefania\\documents\\sena-trimestre 6\\asp.net\\gestionschool\\gestionschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|solutionrelative:gestionschool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|c:\\users\\stefania\\documents\\sena-trimestre 6\\asp.net\\gestionschool\\gestionschool\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|solutionrelative:gestionschool\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|c:\\users\\stefania\\documents\\sena-trimestre 6\\asp.net\\gestionschool\\gestionschool\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|solutionrelative:gestionschool\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Migrations\\20240622022303_AddProfesorCursoAndMatriculaCurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestionSchool\\Migrations\\20240622022303_AddProfesorCursoAndMatriculaCurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|c:\\users\\stefania\\documents\\sena-trimestre 6\\asp.net\\gestionschool\\gestionschool\\migrations\\20240622022556_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CDB8AC-8B31-4FE8-9FB1-FE11BEFC458C}|GestionSchool\\GestionSchool.csproj|solutionrelative:gestionschool\\migrations\\20240622022556_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Views\\Autentication\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestionSchool\\Views\\Autentication\\Index.cshtml",
+              "ToolTip": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Views\\Autentication\\Index.cshtml",
+              "RelativeToolTip": "GestionSchool\\Views\\Autentication\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T17:21:00.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Views\\Autentication\\Crear.cshtml",
+              "RelativeDocumentMoniker": "GestionSchool\\Views\\Autentication\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Views\\Autentication\\Crear.cshtml",
+              "RelativeToolTip": "GestionSchool\\Views\\Autentication\\Crear.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T17:21:27.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registro.cshtml",
+              "DocumentMoniker": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Views\\Logins\\Registro.cshtml",
+              "RelativeDocumentMoniker": "GestionSchool\\Views\\Logins\\Registro.cshtml",
+              "ToolTip": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Views\\Logins\\Registro.cshtml",
+              "RelativeToolTip": "GestionSchool\\Views\\Logins\\Registro.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T07:13:29.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "GestionSchool\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "GestionSchool\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAC2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:07:09.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginsController.cs",
+              "DocumentMoniker": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Controllers\\LoginsController.cs",
+              "RelativeDocumentMoniker": "GestionSchool\\Controllers\\LoginsController.cs",
+              "ToolTip": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Controllers\\LoginsController.cs",
+              "RelativeToolTip": "GestionSchool\\Controllers\\LoginsController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAcwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T04:10:57.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Program.cs",
+              "RelativeDocumentMoniker": "GestionSchool\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Program.cs",
+              "RelativeToolTip": "GestionSchool\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T02:32:15.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InicioSesion.cshtml",
+              "DocumentMoniker": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Views\\Logins\\InicioSesion.cshtml",
+              "RelativeDocumentMoniker": "GestionSchool\\Views\\Logins\\InicioSesion.cshtml",
+              "ToolTip": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Views\\Logins\\InicioSesion.cshtml",
+              "RelativeToolTip": "GestionSchool\\Views\\Logins\\InicioSesion.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T07:14:37.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Controllers\\AutenticationController.cs",
+              "RelativeDocumentMoniker": "GestionSchool\\Controllers\\AutenticationController.cs",
+              "ToolTip": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Controllers\\AutenticationController.cs",
+              "RelativeToolTip": "GestionSchool\\Controllers\\AutenticationController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:08:19.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GestionSchool\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GestionSchool\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T02:30:27.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SchoolCrudContext.cs",
+              "DocumentMoniker": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Models\\SchoolCrudContext.cs",
+              "RelativeDocumentMoniker": "GestionSchool\\Models\\SchoolCrudContext.cs",
+              "ToolTip": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Models\\SchoolCrudContext.cs",
+              "RelativeToolTip": "GestionSchool\\Models\\SchoolCrudContext.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAmwBwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:14:39.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "GestionSchool\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Models\\Login.cs",
+              "RelativeToolTip": "GestionSchool\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:20:06.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Profesore.cs",
+              "DocumentMoniker": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Models\\Profesore.cs",
+              "RelativeDocumentMoniker": "GestionSchool\\Models\\Profesore.cs",
+              "ToolTip": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Models\\Profesore.cs",
+              "RelativeToolTip": "GestionSchool\\Models\\Profesore.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIA8wBEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T02:18:08.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestionSchool\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GestionSchool\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T07:05:33.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Views\\Profesores\\Delete.cshtml",
+              "RelativeDocumentMoniker": "GestionSchool\\Views\\Profesores\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Views\\Profesores\\Delete.cshtml",
+              "RelativeToolTip": "GestionSchool\\Views\\Profesores\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T20:08:09.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProfesoresController.cs",
+              "DocumentMoniker": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Controllers\\ProfesoresController.cs",
+              "RelativeDocumentMoniker": "GestionSchool\\Controllers\\ProfesoresController.cs",
+              "ToolTip": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Controllers\\ProfesoresController.cs",
+              "RelativeToolTip": "GestionSchool\\Controllers\\ProfesoresController.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAowJkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T16:15:46.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\appsettings.json",
+              "RelativeDocumentMoniker": "GestionSchool\\appsettings.json",
+              "ToolTip": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\appsettings.json",
+              "RelativeToolTip": "GestionSchool\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T14:37:38.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Views\\Profesores\\Create.cshtml",
+              "RelativeDocumentMoniker": "GestionSchool\\Views\\Profesores\\Create.cshtml",
+              "ToolTip": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Views\\Profesores\\Create.cshtml",
+              "RelativeToolTip": "GestionSchool\\Views\\Profesores\\Create.cshtml",
+              "ViewState": "AQIAADcAAAAAAAAAAAAuwEwAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T04:05:22.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "GestionSchool\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "GestionSchool\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-22T17:28:03.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "GestionSchool\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "GestionSchool\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:14:19.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GestionSchool\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GestionSchool\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T17:26:22.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "GestionSchool\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "GestionSchool\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T16:39:34.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Views\\Profesores\\Edit.cshtml",
+              "RelativeDocumentMoniker": "GestionSchool\\Views\\Profesores\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Views\\Profesores\\Edit.cshtml",
+              "RelativeToolTip": "GestionSchool\\Views\\Profesores\\Edit.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAkwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T04:32:52.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Views\\Profesores\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestionSchool\\Views\\Profesores\\Index.cshtml",
+              "ToolTip": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Views\\Profesores\\Index.cshtml",
+              "RelativeToolTip": "GestionSchool\\Views\\Profesores\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAIBJwD0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T04:04:56.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Views\\Profesores\\Details.cshtml",
+              "RelativeDocumentMoniker": "GestionSchool\\Views\\Profesores\\Details.cshtml",
+              "ToolTip": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Views\\Profesores\\Details.cshtml",
+              "RelativeToolTip": "GestionSchool\\Views\\Profesores\\Details.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwDAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T23:06:55.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAAHgLAAAAAAAAAAAjwJYLAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-22T23:03:48.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "GestionSchool\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "GestionSchool\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-22T23:03:17.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "GestionSchool\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\appsettings.Development.json",
+              "RelativeToolTip": "GestionSchool\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-22T02:31:32.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240622022556_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Migrations\\20240622022556_InitialCreate.cs",
+              "RelativeDocumentMoniker": "GestionSchool\\Migrations\\20240622022556_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Migrations\\20240622022556_InitialCreate.cs",
+              "RelativeToolTip": "GestionSchool\\Migrations\\20240622022556_InitialCreate.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T02:25:56.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240622022303_AddProfesorCursoAndMatriculaCurso.cs",
+              "DocumentMoniker": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Migrations\\20240622022303_AddProfesorCursoAndMatriculaCurso.cs",
+              "RelativeDocumentMoniker": "GestionSchool\\Migrations\\20240622022303_AddProfesorCursoAndMatriculaCurso.cs",
+              "ToolTip": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\Migrations\\20240622022303_AddProfesorCursoAndMatriculaCurso.cs",
+              "RelativeToolTip": "GestionSchool\\Migrations\\20240622022303_AddProfesorCursoAndMatriculaCurso.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T02:23:04.321Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

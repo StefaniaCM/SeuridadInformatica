@@ -1,0 +1,59 @@
+﻿@model GestionSchool.Models.Profesore
+
+@{
+    ViewData["Title"] = "Profesor";
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-sm border-0">
+                <div class="card-header bg-primary text-white">
+                    <h4 class="mb-0">Editar Profesor</h4>
+                </div>
+                <div class="card-body bg-light">
+                    <form enctype="multipart/form-data" asp-action="Edit">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <input type="hidden" asp-for="DocumentoIdentidad" />
+                        <div class="form-group">
+                            <label asp-for="Nombres" class="control-label"></label>
+                            <input asp-for="Nombres" class="form-control" />
+                            <span asp-validation-for="Nombres" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Apellidos" class="control-label"></label>
+                            <input asp-for="Apellidos" class="form-control" />
+                            <span asp-validation-for="Apellidos" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="CorreoElectronico" class="control-label"></label>
+                            <input asp-for="CorreoElectronico" class="form-control" />
+                            <span asp-validation-for="CorreoElectronico" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Profesion" class="control-label"></label>
+                            <input asp-for="Profesion" class="form-control" />
+                            <span asp-validation-for="Profesion" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="ImagenFile" class="control-label"></label>
+                            <input asp-for="ImagenFile" type="file" class="form-control" />
+                            <span asp-validation-for="ImagenFile" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <button type="submit" class="btn btn-primary">Guardar</button>
+                            <a asp-action="Index" class="btn btn-secondary">Volver a la lista</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

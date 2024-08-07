@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - GestionSchool</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/GestionSchool.styles.css" asp-append-version="true" />
+    <style>
+        .header-title {
+            position: relative;
+            display: inline-block;
+        }
+
+            .header-title::after {
+                content: '';
+                position: absolute;
+                left: 50%;
+                bottom: 0;
+                transform: translateX(-50%);
+                width: 100%;
+                height: 3px;
+                background-color: #007bff; /* Color azul, puedes ajustarlo según prefieras */
+            }
+        .d
+    </style>
+</head>
+<body>
+    <div class="d-flex">
+        <nav class="sidebar bg-secondary text-white d-flex flex-column">
+            <div class="sidebar-sticky flex-grow-1">
+                <a class="navbar-brand text-primary" asp-area="" asp-controller="Home" asp-action="Index">GestionSchool</a>
+                <ul class="nav flex-column mt-3">
+                    <li class="nav-item">
+                        <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Index">Inicio</a>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link text-light" asp-area="" asp-controller="Profesores" asp-action="Index">Profesores</a>
+                 
+                    
+                </ul>
+            </div>
+            <div class="logout">
+                <form asp-area="" asp-controller="Autentication" asp-action="Salir" method="post">
+                    <button type="submit" class="btn btn-primary w-100">Salir</button>
+                </form>
+            </div>
+        </nav>
+        <div class="container-fluid">
+           <header class="border-bottom box-shadow mb-3">
+                <div class="container">
+                    <h1 class="text-center my-3 pb-3 header-title">@ViewData["Title"]</h1>
+                </div>
+            </header>
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+            <footer class="border-top footer text-muted">
+                <div class="container">
+                    &copy; 2024 - GestionSchool - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

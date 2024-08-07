@@ -1,0 +1,74 @@
+﻿/* Estilos para la barra de navegación lateral */
+.sidebar {
+    width: 250px;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    background-color: #1b6ec2; /* Color azul primario */
+    color: white;
+    padding: 20px;
+}
+
+    .sidebar .navbar-brand {
+        font-size: 1.5rem;
+        margin-bottom: 20rem; /* Mayor espacio debajo del título de la marca */
+    }
+
+    .sidebar .nav-link {
+        color: #ffffff;
+        margin: 1rem 0; /* Más espacio entre los enlaces de navegación */
+        padding: 0.5rem;
+        border-radius: 0.25rem;
+    }
+
+        .sidebar .nav-link:hover,
+        .sidebar .nav-link:focus,
+        .sidebar .nav-link.active {
+            background-color: #1861ac; /* Color azul oscuro */
+            color: #ffffff;
+        }
+
+    .sidebar .sidebar-sticky {
+        flex-grow: 1; /* Esto permite que el contenido crezca y empuje el botón hacia abajo */
+    }
+
+    .sidebar .logout {
+        margin-top: auto; /* Esto empuja el botón de logout hacia la parte inferior */
+    }
+
+.container-fluid {
+    margin-left: 250px; /* Espacio para la barra lateral */
+    padding: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 1.5rem; /* Mayor espacio superior para títulos */
+    margin-bottom: 1rem; /* Mayor espacio inferior para títulos */
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: calc(100% - 250px); /* Ancho igual al contenido principal menos el ancho de la barra lateral */
+    max-width: 100%; /* Ajuste para asegurar que no sobrepase el ancho del viewport */
+    background-color: #f8f9fa; /* Color de fondo del footer */
+    padding: 10px 20px; /* Ajuste de padding para el contenido del footer */
+    line-height: normal; /* Ajuste opcional para la altura de línea normal */
+}
+
+
+.border-top {
+    border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+

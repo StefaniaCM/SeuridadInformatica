@@ -1,0 +1,36 @@
+﻿@model GestionSchool.Models.LoginViewModel
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+
+<div class="card-container">
+    <div class="card-half">
+        <div class="card-header text-center">
+            <h4>Inicio de Sesión</h4>
+        </div>
+        <div class="card-body">
+            <form asp-action="Index" method="post">
+                <div class="form-group">
+                    <label asp-for="NombreUsuario"></label>
+                    <input asp-for="NombreUsuario" class="form-control" />
+                    <span asp-validation-for="NombreUsuario" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Contrasena"></label>
+                    <input asp-for="Contrasena" class="form-control" type="password" />
+                    <span asp-validation-for="Contrasena" class="text-danger"></span>
+                </div>
+                <button type="submit" class="btn btn-primary btn-block">Login</button>
+                <a asp-action="Crear" class="btn btn-secondary btn-block mt-2">Registrar</a>
+            </form>
+        </div>
+    </div>
+    <div class="card-half d-flex align-items-center justify-content-center bg-primary text-white">
+        <div class="text-center">
+            <h4>¡Bienvenido de nuevo!</h4>
+            <p>Ingrese sus credenciales para acceder a su cuenta.</p>
+        </div>
+    </div>
+</div>

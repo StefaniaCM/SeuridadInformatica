@@ -1,0 +1,405 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GestionSchool.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GestionSchool.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\116031bc-ab96-4603-aeb2-7f4b853b95a5_profesor2.jpg",
+      "PackagePath": "staticwebassets\\images\\116031bc-ab96-4603-aeb2-7f4b853b95a5_profesor2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\1edbbd72-36e8-42ee-9efe-17f174fed6de_estu2.jpg",
+      "PackagePath": "staticwebassets\\images\\1edbbd72-36e8-42ee-9efe-17f174fed6de_estu2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\4264f686-0438-4f70-a67c-0976c587dd02_profesor1.jpg",
+      "PackagePath": "staticwebassets\\images\\4264f686-0438-4f70-a67c-0976c587dd02_profesor1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\53f53933-88c7-4213-be5e-3d68ee693eb1_profesor2.jpg",
+      "PackagePath": "staticwebassets\\images\\53f53933-88c7-4213-be5e-3d68ee693eb1_profesor2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\647058e4-73b2-4b02-afc4-8060f4c367a0_estu2.jpg",
+      "PackagePath": "staticwebassets\\images\\647058e4-73b2-4b02-afc4-8060f4c367a0_estu2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\656d54fb-937b-4ebe-baf8-9afdd3420871_profesor1.jpg",
+      "PackagePath": "staticwebassets\\images\\656d54fb-937b-4ebe-baf8-9afdd3420871_profesor1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\66468ccb-64a3-4dac-971f-7058f8a9d3be_profesor1.jpg",
+      "PackagePath": "staticwebassets\\images\\66468ccb-64a3-4dac-971f-7058f8a9d3be_profesor1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\87363ccc-be1d-4486-ac40-85f7b8fc3c23_estu2.jpg",
+      "PackagePath": "staticwebassets\\images\\87363ccc-be1d-4486-ac40-85f7b8fc3c23_estu2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\8c92456a-835b-4489-bedd-dae1f4beb275_profesor2.jpg",
+      "PackagePath": "staticwebassets\\images\\8c92456a-835b-4489-bedd-dae1f4beb275_profesor2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\9133821d-5011-47bd-95c3-c46f53669db8_Requisitos SchoolCrud.jpeg",
+      "PackagePath": "staticwebassets\\images\\9133821d-5011-47bd-95c3-c46f53669db8_Requisitos SchoolCrud.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\9bfa4d90-a78d-4114-825e-46719be5c8a8_estu1.jpg",
+      "PackagePath": "staticwebassets\\images\\9bfa4d90-a78d-4114-825e-46719be5c8a8_estu1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\Documentos - Acceso directo.lnk",
+      "PackagePath": "staticwebassets\\images\\Documentos - Acceso directo.lnk"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\a0bf775b-bd7a-443a-a5d6-9978ddf428ea_profesor2.jpg",
+      "PackagePath": "staticwebassets\\images\\a0bf775b-bd7a-443a-a5d6-9978ddf428ea_profesor2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\a8993b74-eb5a-4951-806b-830dd1b12b5b_estu1.jpg",
+      "PackagePath": "staticwebassets\\images\\a8993b74-eb5a-4951-806b-830dd1b12b5b_estu1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\ad691e63-65ea-449d-83f9-3587c95cd4ed_profesor1.jpg",
+      "PackagePath": "staticwebassets\\images\\ad691e63-65ea-449d-83f9-3587c95cd4ed_profesor1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\b337f6e5-263c-4078-97c1-84d4606a3600_estu1.jpg",
+      "PackagePath": "staticwebassets\\images\\b337f6e5-263c-4078-97c1-84d4606a3600_estu1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\b7f1da0e-4a90-46bc-a344-0710317106ad_Requisitos SchoolCrud.jpeg",
+      "PackagePath": "staticwebassets\\images\\b7f1da0e-4a90-46bc-a344-0710317106ad_Requisitos SchoolCrud.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\bb3e1f99-6584-45cc-96be-03f5f708e502_profesor1.jpg",
+      "PackagePath": "staticwebassets\\images\\bb3e1f99-6584-45cc-96be-03f5f708e502_profesor1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\bc93643e-6aeb-4f8f-b123-f0326381a97b_estu2.jpg",
+      "PackagePath": "staticwebassets\\images\\bc93643e-6aeb-4f8f-b123-f0326381a97b_estu2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\c4cd5346-388b-416e-892c-52dfc3c4dc94_fondo.jpg",
+      "PackagePath": "staticwebassets\\images\\c4cd5346-388b-416e-892c-52dfc3c4dc94_fondo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\c579b35d-4878-4aec-9f2f-7a8a82e003c8_estu1.jpg",
+      "PackagePath": "staticwebassets\\images\\c579b35d-4878-4aec-9f2f-7a8a82e003c8_estu1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\c63c793b-200b-4275-b20d-bc4d63e29706_fondo.jpg",
+      "PackagePath": "staticwebassets\\images\\c63c793b-200b-4275-b20d-bc4d63e29706_fondo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\c80f9063-be39-46c2-b5f2-761d2889054c_estu1.jpg",
+      "PackagePath": "staticwebassets\\images\\c80f9063-be39-46c2-b5f2-761d2889054c_estu1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\cd05efd1-e454-4582-89a5-3e0da1e116b1_fondo.jpg",
+      "PackagePath": "staticwebassets\\images\\cd05efd1-e454-4582-89a5-3e0da1e116b1_fondo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\consulta.jpeg",
+      "PackagePath": "staticwebassets\\images\\consulta.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\cursos.jpeg",
+      "PackagePath": "staticwebassets\\images\\cursos.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\d1ce97ef-75f7-4936-ac08-d98441d9fd38_fondo.jpg",
+      "PackagePath": "staticwebassets\\images\\d1ce97ef-75f7-4936-ac08-d98441d9fd38_fondo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\da80cb76-b88f-4300-91bf-ae587f1ed2e0_Requisitos SchoolCrud.jpeg",
+      "PackagePath": "staticwebassets\\images\\da80cb76-b88f-4300-91bf-ae587f1ed2e0_Requisitos SchoolCrud.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\dd08cb3f-643f-4e2f-86a7-418e141bd8e3_profesor2.jpg",
+      "PackagePath": "staticwebassets\\images\\dd08cb3f-643f-4e2f-86a7-418e141bd8e3_profesor2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\estudiante.jpeg",
+      "PackagePath": "staticwebassets\\images\\estudiante.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\f5e5b094-675d-4c6a-80a7-d040854901d5_profesor1.jpg",
+      "PackagePath": "staticwebassets\\images\\f5e5b094-675d-4c6a-80a7-d040854901d5_profesor1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\fondo.jpg",
+      "PackagePath": "staticwebassets\\images\\fondo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\matricula.jpeg",
+      "PackagePath": "staticwebassets\\images\\matricula.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\profesor.jpeg",
+      "PackagePath": "staticwebassets\\images\\profesor.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\images\\profesor.jpg",
+      "PackagePath": "staticwebassets\\images\\profesor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\STEFANIA\\Documents\\Sena-Trimestre 6\\Asp.net\\GestionSchool\\GestionSchool\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GestionSchool.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GestionSchool.props",
+      "PackagePath": "build\\GestionSchool.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GestionSchool.props",
+      "PackagePath": "buildMultiTargeting\\GestionSchool.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GestionSchool.props",
+      "PackagePath": "buildTransitive\\GestionSchool.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
